@@ -1,4 +1,4 @@
-# Tokyo Olympic Data Engineering pipeline using azure DataFactory, Databricks, Data Lake Storage, Synapse Analytics
+# Azure Data Engineering Pipeline Overview
 
 ## Introduction
 This project demonstrates an end-to-end data pipeline built using **Azure Data Factory**, **Azure Data Lake Storage**, **Databricks**, and **Synapse Analytics**. 
